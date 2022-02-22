@@ -1,0 +1,8 @@
+Microsoft Windows [Version 10.0.19041.1415]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Safira>cd C:\Program Files\Google\Chrome\Application
+
+C:\Program Files\Google\Chrome\Application>chrome.exe --remote-debugging-port=8989 --user-data-dir="C:\Users\Safira\Documents\chromeprofile"
+
+C:\Program Files\Google\Chrome\Application>
